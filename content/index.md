@@ -3,10 +3,10 @@ title: Welcome
 publish: true
 ---
 
-My digital garden. Everything that I want the world to know.
+My digital garden 🍊
 
-Check out my 📝 [[Blog/]]
+My experience with  [[🏡Homelab/]]
 
 For information about this setup see [[🟪 Meta/]]
 
-
+Everything else goes there 📝 [[Blog/]]
