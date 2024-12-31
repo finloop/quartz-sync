@@ -26,4 +26,10 @@ I used [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) to:
 1. Give Obsidian permissions to `/home/$USER` directory - that's where `bin/` of NVM resides 
 2.  Add NVM to `$PATH`: ![[obsidian-env.png]]
 
+I also had to update the script to execute from the git root:
 
+```sh
+cd "$(git rev-parse --show-toplevel)" && npx quartz sync --no-pull
+```
+
+Now running `Ctrl + P`  and typing  `Update page` updates the page directly from obsidian.
