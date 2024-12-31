@@ -20,8 +20,6 @@ npx quartz sync --no-pull
 
 and the site is up!
 
-To make this process less painful (I'm lazy and don't want to open a terminal) I've set up [Obsidian Shellcommands](https://github.com/Taitava/obsidian-shellcommands) plugin.
-
-![[shellcomands.png]]
+To make this process less painful (I'm lazy and don't want to open a terminal) I've set up [Obsidian Shellcommands](https://github.com/Taitava/obsidian-shellcommands) plugin. You can read abut this process here [[Setting obsidian-shellcommands plugin on flatpak|setting obsidian-shellcommands plugin on flatpak]]. 
 
 Now running `Ctrl + P`  and typing  `Update page` updates the page directly from obsidian.
