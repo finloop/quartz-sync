@@ -4,9 +4,6 @@ publish: true
 tags:
   - homelab
   - truenas
-description: Description used for preview
-aliases:
-  - other names for this note
 date: 2023-06-26
 ---
 TL;DR Some apps work flawlessly and some (those with postgres) take a lot of time to initialize. 2024 update: don't use USB drives, not worth it.
