@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "garden.piotrk.it",
-    ignorePatterns: ["private", "templates", ".obsidian", "!(PublicMedia)**/!(*.md)", "!(*.md)"],
+    ignorePatterns: ["private", "templates", ".obsidian", "!(PublicMedia)**/!(*.md)", "!(*.md)", "**/private"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
@@ -72,7 +72,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.ExplicitPublish()],
+    filters: [Plugin.ExplicitPublish(), Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),

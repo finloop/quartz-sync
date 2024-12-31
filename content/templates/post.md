@@ -1,6 +1,6 @@
 ---
 title: Example Title
-public: false
+publish: false
 tags:
   - example-tag
 description: Description used for preview
