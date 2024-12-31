@@ -1,7 +1,9 @@
 ---
-title: "Poco F1 Restarts on Fastboot Amd"
+title: Poco F1 Restarts on Fastboot Amd
 date: 2023-07-08T21:15:20+02:00
 publish: true
+tags:
+  - android
 ---
 
 ## Poco F1 - Restarts on Fastboot (AMD)

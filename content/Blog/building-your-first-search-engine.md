@@ -1,7 +1,10 @@
 ---
-title: "How to deploy Opensearch with Docker Compose and query it using Python"
+title: How to deploy Opensearch with Docker Compose and query it using Python
 publish: true
 date: 2022-08-04T00:00:00+02:00
+tags:
+  - python
+  - programming
 ---
 
 Imagine that you’re working with a large text dataset. It can be anything:

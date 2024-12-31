@@ -1,7 +1,11 @@
 ---
-title: "Animating two images transitioning horizontally with Python"
+title: Animating two images transitioning horizontally with Python
 publish: true
 date: 2021-11-01T00:00:00+02:00
+tags:
+  - python
+  - numpy
+  - programming
 ---
 
 Hi, I'll start with showing what I'm trying to achieve (I couldn't come up with a shorter title).

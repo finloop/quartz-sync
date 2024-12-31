@@ -1,7 +1,10 @@
 ---
-title: "Getting to Philosophy With Python"
+title: Getting to Philosophy With Python
 date: 2021-09-20T00:41:41+02:00
 publish: true
+tags:
+  - python
+  - programming
 ---
 
 There's a famous Wikipedia phenomena that by clicking the first link in the main text of the article on the English Wikipedia, you'll eventually end up on the [philosophy](https://en.wikipedia.org/wiki/Philosophy) page. An explanation can be found [here](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy). Briefly, it's because of Wikipedia [Manual of Style guidelines](https://en.wikipedia.org/wiki/Wikipedia:MOSBEGIN) that recommend that articles begin by telling "what or who the subject is, and often when and where".

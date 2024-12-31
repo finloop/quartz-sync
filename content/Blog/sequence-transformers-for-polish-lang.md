@@ -1,7 +1,10 @@
 ---
-title: "Sequence Transformers for Polish Lang"
+title: Sequence Transformers for Polish Lang
 date: 2022-08-06T00:00:02+02:00
 publish: true
+tags:
+  - python
+  - llms
 ---
 
 In this tutorial, I'll show you how to generate embeddings for sequences in polish using Sequence Transformers. I won't explain how they work, there are many great articles:

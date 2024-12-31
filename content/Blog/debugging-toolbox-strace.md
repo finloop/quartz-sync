@@ -2,6 +2,9 @@
 title: "My debugging toolbox: strace"
 date: 2024-08-03T10:00:00+02:00
 publish: true
+tags:
+  - programming
+  - debugging
 ---
 From time to time, my usual debugging tools: good ol `printf`, `logger.log`, `console.log`, `gdb`, `pdb` are not enough to solve the problem. This happens more than often when multiple processes/threads are involved or performance is an issue.
 

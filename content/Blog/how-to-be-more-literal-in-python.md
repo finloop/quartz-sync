@@ -1,7 +1,10 @@
 ---
-title: "Literals and overloading in Python"
+title: Literals and overloading in Python
 date: 2023-08-26T21:48:56+02:00
 publish: true
+tags:
+  - python
+  - programming
 ---
 
 It's time to talk about Pythons Literals and I mean that literally :smile:.

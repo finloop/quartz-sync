@@ -1,7 +1,9 @@
 ---
-title: "Poetry Install Dulwitch HangupException"
+title: Poetry Install Dulwitch HangupException
 date: 2023-12-08T09:33:24+01:00
 publish: true
+tags:
+  - python
 ---
 
 ## The error

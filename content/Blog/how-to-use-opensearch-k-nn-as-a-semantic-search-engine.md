@@ -1,7 +1,9 @@
 ---
-title: "How to use OpenSearch k-NN as a semantic search engine"
+title: How to use OpenSearch k-NN as a semantic search engine
 date: 2022-08-16T00:00:00+02:00
 publish: true
+tags:
+  - python
 ---
 
 In my previous [article](https://dev.to/finloop/building-your-first-search-engine-5d1i), I showed how to create a simple search engine using OpenSearch and its fuzzy query. This time I'll show something much more powerful - semantic search engine.
