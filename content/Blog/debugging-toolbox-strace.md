@@ -7,7 +7,7 @@ From time to time, my usual debugging tools: good ol `printf`, `logger.log`, `co
 
 One such tool that I found really useful is `strace`.
 
-![Linux Performance Observability Tools. Source: https://www.brendangregg.com/Perf/linux_observability_tools.png](https://www.brendangregg.com/Perf/linux_observability_tools.png)
+![[1e5b24380e3af49572295763e154148c_MD5.png]]
 <figcaption>Linux Performance Observability Tools. Source: https://www.brendangregg.com/Perf/linux_observability_tools.png</figcaption>
 
 See `man strace` (great read)!.

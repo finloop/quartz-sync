@@ -6,7 +6,7 @@ date: 2021-11-01T00:00:00+02:00
 
 Hi, I'll start with showing what I'm trying to achieve (I couldn't come up with a shorter title).
 
-![GIF](https://media.giphy.com/media/SxgzToumtHt8zmbzQS/giphy.gif)
+![[f7d3e6d83207e6266b22bc2ad88940b4_MD5.gif]]
 
 We have two images, the second one slowly replaces the first (horizontally).
 
@@ -30,10 +30,10 @@ image2 = np.array(Image.open('image2.png').convert('RGB'))
 ```
 
 In my case, this is the first image:
-![Pikachu](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bidvfa6hdxtge1z021hf.png)
+![[9172ad33fc07aa19feb44eebba45cfa3_MD5.png]]
 
 And the second:
-![Contour of Pikachu](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tktz260owo4lp12dga4m.png)
+![[f3e6ae1586b6db7b27a54809700d957d_MD5.png]]
 
 Both images are of shape: (339, 339, 3)
 
@@ -63,7 +63,7 @@ Where:
 
 Here are some images that I generated with it:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n8dcrdx13tw1y7bb29sa.png)
+![[17423efe0f5a7d0386c06a3c301f20ad_MD5.png]]
 
 ## Creating animation
 

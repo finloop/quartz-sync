@@ -182,7 +182,7 @@ pprint(response["hits"]["hits"]
 
 And sample response:
 
-![Response from match query](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o8ys89q9319scr6v1ba5.png)
+![[0960a7eb9f7a3840898293b032108b9a_MD5.png]]
 
 As you can see, we’ve got a match. Bot name and descripion fields mention words of interest. If you’d want to increase the number of returned documents, change the value of size parameter in query.
 
@@ -204,4 +204,4 @@ Stay tuned! And follow for more.
 _Pracę przygotowano w ramach realizacji projektu pt.: „Hackathon Open Gov Data oraz stworzenie innowacyjnych aplikacji, z wykorzystaniem technologii GPU”, dofinansowanego przez Ministra Edukacji i Nauki ze środków z budżetu państwa
 w ramach programu „Studenckie koła naukowe tworzą innowacje”._
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89b9olhqzqty9moz6kzg.png)
+![[9d3e0fae3c4bb593e8cad2583206ae8a_MD5.png]]

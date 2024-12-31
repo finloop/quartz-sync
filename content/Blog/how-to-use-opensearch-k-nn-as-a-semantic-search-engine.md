@@ -269,4 +269,4 @@ Go on and play with the search for yourself, I had quite a fun creating it and l
 _Pracę przygotowano w ramach realizacji projektu pt.: „Hackathon Open Gov Data oraz stworzenie innowacyjnych aplikacji, z wykorzystaniem technologii GPU”, dofinansowanego przez Ministra Edukacji i Nauki ze środków z budżetu państwa
 w ramach programu „Studenckie koła naukowe tworzą innowacje”._
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89b9olhqzqty9moz6kzg.png)
+![[9d3e0fae3c4bb593e8cad2583206ae8a_MD5.png]]

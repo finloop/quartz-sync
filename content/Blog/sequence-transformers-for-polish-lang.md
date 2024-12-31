@@ -60,11 +60,11 @@ from sklearn.metrics import pairwise
 sns.heatmap(pairwise.cosine_similarity(embeddings, embeddings))
 ```
 
-![Heatmap of distance matrix](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m8rdn3mhl8b2reftklsj.png)
+![[d29abe6cf520a92ce920d59bda4dcd4f_MD5.png]]
 
 From this heatmap we can deduce that our model works, it found similarity between sentences with `pożar` and `wypadek` which both refer to an accident.
 
 _Pracę przygotowano w ramach realizacji projektu pt.: „Hackathon Open Gov Data oraz stworzenie innowacyjnych aplikacji, z wykorzystaniem technologii GPU”, dofinansowanego przez Ministra Edukacji i Nauki ze środków z budżetu państwa
 w ramach programu „Studenckie koła naukowe tworzą innowacje”._
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89b9olhqzqty9moz6kzg.png)
+![[9d3e0fae3c4bb593e8cad2583206ae8a_MD5.png]]

@@ -6,7 +6,7 @@ publish: true
 
 It's time to talk about Pythons Literals and I mean that literally :smile:.
 
-![Kevin from the office laughing](https://viralviralvideos.com/wp-content/uploads/2017/05/GIF-laughing-funny-LOL-haha-hehe-hilarious-fun-happy-laugh-Kevin-Malone-Brian-Baumgartner-The-Office-GIF.gif)
+![[7b2c231ee55d17dd0dca5bd783823db0_MD5.gif]]
 
 Now that we got that unfunny joke out of the way.
 
@@ -27,7 +27,7 @@ a: Literal[5] = 5
 
 Type checker will know that `a` should always be int 5 and will show a warning if we try to change that:
 
-![Pylint warning](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iw4bv9au4pcfjce4l0qn.png)
+![[5d5ceceb04ae655118455a8fde7e1b45_MD5.png]]
 
 ## More examples
 
@@ -48,7 +48,7 @@ b = fun("number")
 b + 1
 ```
 
-We get a warning: ![Type warning](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m9a49yb5z51wnefzlh4y.png)
+We get a warning: ![[e84b16fcad958b64865f1eef82a5e831_MD5.png]]
 
 What about this:
 
@@ -57,7 +57,7 @@ b = fun("all")
 b  + "all"
 ```
 
-![Another type warning](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e2njmdiivptihrsnqxj7.png)
+![[88349dca07a1854b817dca2f7acc6286_MD5.png]]
 
 Type checker doesn't know what is the return type of that function is. We can help him with that by doing an overload.
 
@@ -103,7 +103,7 @@ b = fun("number")
 c = b + 1
 ```
 
-![No warnings :)](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o76lqw0asai2313flzu7.png)
+![[66334db98ed6f39044161d5329699aa7_MD5.png]]
 
 without any warnings 😎. And be warned if the return type changes:
 
@@ -112,7 +112,7 @@ b = fun("all")
 c = b + 1
 ```
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epb5ck9arndmeokz2deh.png)
+![[46b42b6b852afe5c234e345ef42d1976_MD5.png]]
 
 ## References
 
