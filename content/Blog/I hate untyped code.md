@@ -19,6 +19,5 @@ I think that it comes down to Cognitive load[^1] . Finding *what something is* a
 
 Like everything, adding types has its disadvantages. But I think (as of 2025) that the advantages outweigh the disadvantages. Who knows? Maybe I change my mind
 
-## References
 
 [^1]: Great article about cognitive load https://minds.md/zakirullin/cognitive 
