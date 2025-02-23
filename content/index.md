@@ -9,4 +9,4 @@ My experience with  [[🏡Homelab/]]
 
 For information about this setup see [[🟪 Meta/]]
 
-Everything else goes there 📝 [[Blog/]]
+Everything else goes here 📝 [[Blog/]]
