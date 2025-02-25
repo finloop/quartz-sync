@@ -11,7 +11,7 @@ date: 2025-02-23
 ---
 Disclaimer: These views are my own and not of my employer.
 
-Update 2025-02-25: Information shared below is outdated I bought a book today and I can download mp3 file. <3 I guess we buyin them now...
+Update 2025-02-25: Information shared below is outdated I bought a book today with **Audioteka Klub** subscription and I can download mp3 file. <3 I guess we buyin them now...
 
 Dammit. 
 
