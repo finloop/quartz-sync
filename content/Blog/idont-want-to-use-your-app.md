@@ -11,6 +11,8 @@ date: 2025-02-23
 ---
 Disclaimer: These views are my own and not of my employer.
 
+Update 2025-02-25: Information shared below is outdated I bought a book today and I can download mp3 file. <3 I guess we buyin them now...
+
 Dammit. 
 
 I recently got into audiobooks. I'm from Poland and I prefer to listen to them in polish. For me, THE app for audiobooks is https://audioteka.com/pl/ (they didn't pay me btw.). 
