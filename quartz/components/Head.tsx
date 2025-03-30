@@ -177,6 +177,8 @@ export default (() => {
         <meta property="og:description" content={description} />
         <meta property="og:image:type" content={`image/${extension}`} />
         <meta property="og:image:alt" content={description} />
+        {/* Google site verification tag */}
+        <meta name="google-site-verification" content="QAIZn-a0usVfmV_OZ7dEEtYC6UcBI3iO8ewK1RFnSmk" />
         {/* Dont set width and height if unknown (when using custom frontmatter image) */}
         {!frontmatterImgUrl && (
           <>
