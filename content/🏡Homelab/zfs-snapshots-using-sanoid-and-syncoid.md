@@ -155,7 +155,7 @@ After=network.target
 
 [Service]
 Type=oneshot
-ExecStart=/usr/sbin/syncoid --no-privilege-elevation -r --skip-parent rpool/data remote-machine:data/public-services
+ExecStart=/usr/sbin/syncoid --no-privilege-elevation -r --skip-parent rpool/data remote-machine:data/production-machine-xxx
 [Install]
 WantedBy=default.target
 ```
