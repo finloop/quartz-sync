@@ -151,7 +151,7 @@ Create file `/etc/systemd/system/zfs-sync.service`:
 ```txt
 [Unit]
 Description=Send zfs snapshots to remote machine
-After=network.target tailscaled.service
+After=network.target
 
 [Service]
 Type=oneshot
