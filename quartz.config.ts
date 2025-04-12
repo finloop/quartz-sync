@@ -17,7 +17,6 @@ const config: QuartzConfig = {
     baseUrl: "garden.piotrk.it",
     ignorePatterns: ["private", "templates", ".obsidian", "!(PublicMedia)**/!(*.md)", "**/private"],
     defaultDateType: "created",
-    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
