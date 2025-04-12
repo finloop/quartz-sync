@@ -1,17 +1,17 @@
 ---
-title: Podman on debian: How to fix podman no services after restart
+title: Podman on debian How to fix podman no services after restart
 publish: true
 tags:
   - podman
   - systemd
   - sysadmin
-description: I notices that with static build of podman, services didn't start after I restarted my server, even though they had `Restart=Always` policy.
+description: I notices that with static build of podman, services didn't start after I restarted my server, even though they had Restart Always policy.
 date: 2025-04-12
 ---
  
 I notices that with static build of podman, services didn't start after I restarted my server, even though they had `Restart=Always` policy.
 
-This is an issue that can popup when installing podman from a static build [Installation on Debian](https://wiki.piotrk.it/books/podman/page/installation-on-debian).
+This is an issue that can popup when installing podman from a static build [[install-latest-podman-on-debian-ubuntu|installation on debian]]. 
 
 Turns out that this issue is due to missing `podman-restart.service` that starts all the services after boot. 
 
