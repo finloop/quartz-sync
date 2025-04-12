@@ -4,6 +4,7 @@ publish: true
 tags:
   - meta
   - obsidian
+date: 2024-12-30
 ---
 Running Obsidian from flatpak comes with its own set of problems. One of them is that Obsidian is ran in sandbox environment - which makes sense when we consider security, but to be frank - it's annoying when I have to do something non-standard.
 
@@ -24,7 +25,7 @@ I was welcomed with an error that it couldn't find `npx` command, which makes se
 
 I used [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) to:
 1. Give Obsidian permissions to `/home/$USER` directory - that's where `bin/` of NVM resides 
-2.  Add NVM to `$PATH`: ![[obsidian-env.png]]
+2. Add NVM to `$PATH`: ![[obsidian-env.png]]
 
 I also had to update the script to execute from the git root:
 
