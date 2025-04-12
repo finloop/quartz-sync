@@ -64,8 +64,8 @@ export default (() => {
         {/* Google verification tags */}
         <meta name="google-site-verification" content="QAIZn-a0usVfmV_OZ7dEEtYC6UcBI3iO8ewK1RFnSmk" />
         <meta name="msvalidate.01" content="E692AD05DB54D226D376C1BF754EEC55" />
-        {/* Dont set width and height if unknown (when using custom frontmatter image) */}
-        {!frontmatterImgUrl && (
+
+        {!usesCustomOgImage && (
           <>
             <meta property="og:image" content={ogImageDefaultPath} />
             <meta property="og:image:url" content={ogImageDefaultPath} />
