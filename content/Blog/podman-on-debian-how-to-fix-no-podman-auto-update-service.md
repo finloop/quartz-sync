@@ -15,13 +15,13 @@ To fix it we have to create a update service and timer. These were originally fr
 
 Create directory for 
 
-```
+```sh
 mkdir -p ~/.config/systemd/user/
 ```
 
 Create file `podman-auto-update.service`:
 
-```
+```ini
 [Unit]
 Description=Podman auto-update service
 Documentation=man:podman-auto-update(1)
@@ -39,7 +39,7 @@ WantedBy=default.target
 
 Create file `podman-auto-update.timer`:
 
-```
+```ini
 [Unit]
 Description=Podman auto-update timer
 
@@ -54,13 +54,13 @@ WantedBy=timers.target
 
 Reload units:
 
-```
+```sh
 systemctl --user daemon-reload; journalctl -f
 ```
 
 Enable service and timer:
 
-```
+```sh
 systemctl --user enable podman-auto-update.service
 systemctl --user enable podman-auto-update.timer
 ```

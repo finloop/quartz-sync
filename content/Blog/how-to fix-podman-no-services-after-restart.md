@@ -19,13 +19,13 @@ This file was originally from [github repo](https://github.com/containers/podman
 
 Create directory for 
 
-```
+```sh
 mkdir -p ~/.config/systemd/user/
 ```
 
 Create file `podman-restart.service`:
 
-```
+```ini
 [Unit]
 Description=Podman Start All Containers With Restart Policy Set To Always
 Documentation=man:podman-start(1)
@@ -46,12 +46,12 @@ WantedBy=default.target
 
 Reload units:
 
-```
+```sh
 systemctl --user daemon-reload; journalctl -f
 ```
 
 Enable service and timer:
 
-```
+```sh
 systemctl --user enable podman-restart.service
 ```
