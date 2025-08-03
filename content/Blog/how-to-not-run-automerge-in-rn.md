@@ -1,6 +1,6 @@
 ---
 title: How to (not) run Automerge in React-native
-publish: false
+publish: true
 tags:
   - react-native
   - automerge
