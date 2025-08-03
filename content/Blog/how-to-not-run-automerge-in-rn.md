@@ -7,7 +7,7 @@ tags:
   - c++
   - android
   - programming
-description: My painfull journey to get the Automerge library to work in React native
+description: My painful journey to get the Automerge library to work in React native
 date: 2025-08-02
 ---
  TL;DR: I don't know how how to run [Automerge](https://automerge.org/) in RN, I've tried [⚛️ 🏎 react-native-webassembly](https://github.com/cawfree/react-native-webassembly) but it's not yet possible due to technical reasons.
